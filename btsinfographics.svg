@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5732" viewBox="0 0 1920 5732">
+  <style>
+#bts-bubble, #shineeubble, #nctbuble, #exo-bubble, #svtbubble, #superjrbubble, #wannaonebubble{opacity: 0; transition: opacity .5s;}
+#bts-bubble:hover, #shineeubble:hover, #nctbuble:hover, #exo-bubble:hover, #svtbubble:hover, #superjrbubble:hover, #wannaonebubble:hover{opacity: 1;}
+</style>
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#cd31fc"/>
